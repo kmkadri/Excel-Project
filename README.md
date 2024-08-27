@@ -5,7 +5,7 @@ This project analyzes dummy data on retailers who are into Coca-Cola products in
 
 *Please note that the dataset is not real and is solely for practice purposes.*
 
-You can download the Excel file from [(https://github.com/kmkadri/Excel-Project/blob/main/Retail%20Project.xlsx)].
+You can download the Excel file [Here](https://github.com/kmkadri/Excel-Project/blob/main/Retail%20Project.xlsx).
 
 The file contains three tabs/sheets:
 - **Data**
